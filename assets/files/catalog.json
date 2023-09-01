@@ -1,0 +1,38 @@
+{
+  "products":[
+    {
+      "id":"1",
+      "name": "iPhone 14 pro max",
+      "desc": "Apple iphone 14 pro max",
+      "price": 999,
+      "color": "#ffffff",
+      "image": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id":"2",
+      "name": "S23 Ultra",
+      "desc": "SAMSUNG S23 Ultra",
+      "price": 999,
+      "color": "#ffffff",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR8DgSXsgoKrIkqchDjU27k45WIJ07IZH4pur2AczcARcUM6HyeGse20CJqvioAhS4Eok&usqp=CAU"
+    },
+    {
+      "id":"3",
+      "name": "OnePlus 11",
+      "desc": "OnePlus 11 5g",
+      "price": 800,
+      "color": "#ffffff",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP6HAa_0VxSL7RU2i4SUilZ6Z9WbXEr_IswQ&usqp=CAU"
+    },
+    {
+      "id":"4",
+      "name": "ipad Pro",
+      "desc": "ipad Pro 2022 edition",
+      "price": 790,
+      "color": "#ffffff",
+      "image": "https://www.apple.com/v/ipad-pro/am/images/meta/ipad-pro_overview__glcw458o4byq_og.png"
+    }
+  ]
+
+
+}
